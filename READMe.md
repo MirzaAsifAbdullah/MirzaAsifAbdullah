@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Modern Workspace, Bigger Dreams" src="https://github.com/user-attachments/assets/bdcc4ba7-a7a4-402a-a036-acbd70fdecbc" />
 <h1 align="center">Hi 👋, I'm Mirza Md. Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
